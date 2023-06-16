@@ -2,15 +2,11 @@
 
 This repository contains the machine learning projects completed for the class "Deep Learning in Scientific Computing" taught at ETH jointly by Siddhartha Mishra and Benjamin Moseley in Spring 2024. The description of the tasks can be found in the PDFs.
 
-This is the description of the course from the course catalogue
-
 ### Objective of Course
 
 The objective of this course will be to introduce students to advanced applications of deep learning in scientific computing. The focus will be on the design and implementation of algorithms as well as on the underlying theory that guarantees reliability of the algorithms. We will provide several examples of applications in science and engineering where deep learning based algorithms outperform state of the art methods.
 
 ### Content of the Course
-
-	A selection of the following topics will be presented in the lectures.
 
 1. Issues with traditional methods for scientific computing such as Finite Element, Finite Volume etc, particularly for PDE models with high-dimensional state and parameter spaces.
 
