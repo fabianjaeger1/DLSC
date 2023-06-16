@@ -1,6 +1,6 @@
 # Deep Learning in Scientific Computing
 
-This repository contains the machine learning projects completed for the class "Deep Learning in Scientific Computing" taught at ETH jointly by Siddhartha Mishra and Benjamin Moseley in Spring 2024. The description of the tasks can be found in the PDFs.
+This repository contains the machine learning projects completed for the class "Deep Learning in Scientific Computing" taught at [ETH](https://ethz.ch/en.html) jointly by Siddhartha Mishra and Benjamin Moseley in Spring 2024. The description of the tasks can be found in the PDFs.
 
 ### Objective of Course
 
