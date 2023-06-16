@@ -2,6 +2,14 @@
 
 This repository contains the machine learning projects completed for the class "Deep Learning in Scientific Computing" taught at [ETH](https://ethz.ch/en.html) jointly by Siddhartha Mishra and Benjamin Moseley in Spring 2024. The description of the tasks can be found in the PDFs.
 
+### Project A
+
+The main objective of the project is to apply machine learning algorithms to solve various tasks related to the preliminary design of a thermal energy storage. In total there are three Tasks.
+
+- Task1: aims at solving a PDE describing the evolution of temperatures of the solid $T_s$ and fluid phase $T_f$ using PINNs. The aim is given a set of input coordinates $(t, x)$ to predict $(T_s, T_f)$.
+- Task2: is a PDE constrained inverse Problem where given the fluid temperature and input coordinates $(t,x)$ we want to infer the solid temperature for a set of four different phases of two cycles. This problem is similarly solved using PINNs
+- Task3: is a time-series problem. Given a set of noiseless temperature measurements of solid and fluid phase of previous time steps we want to infer the temperatures at a later time step. This problem was solved using Neural Operators, more precisely Fourier Neural Operators (FNO).
+
 ### Objective of Course
 
 The objective of this course will be to introduce students to advanced applications of deep learning in scientific computing. The focus will be on the design and implementation of algorithms as well as on the underlying theory that guarantees reliability of the algorithms. We will provide several examples of applications in science and engineering where deep learning based algorithms outperform state of the art methods.
