@@ -15,6 +15,10 @@ Task 2 is a PDE constrained inverse Problem where given the fluid temperature an
 ### Task3
 Task 3 is a time-series problem. Given a set of noiseless temperature measurements of solid and fluid phase of previous time steps we want to infer the temperatures at a later time step. This problem was solved using Neural Operators, more precisely Fourier Neural Operators (FNO).
 
+## Project B
+
+In Project B we reconstructed some of the results obtained in the Paper "Finite basis physics informed neural networks (FBPINNs)". We further investigated the impact on accuracy of a multi-scale ODE problem by increasing the number of multi-scale components and varying the number of subdomain divisions. A discussion of the theory and the results can be found in the Report_ProjectB.pdf
+
 ## Objective of Course
 
 The objective of this course will be to introduce students to advanced applications of deep learning in scientific computing. The focus will be on the design and implementation of algorithms as well as on the underlying theory that guarantees reliability of the algorithms. We will provide several examples of applications in science and engineering where deep learning based algorithms outperform state of the art methods.
